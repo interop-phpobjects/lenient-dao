@@ -1,0 +1,16 @@
+{
+    "name": "interop-phpobjects/lenient-dao",
+    "type": "library",
+    "description": "Data access interface interoperability",
+    "keywords": ["aop","interop","dao"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Interop\\Lenient\\Dao\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
