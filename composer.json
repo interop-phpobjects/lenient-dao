@@ -11,6 +11,5 @@
         "psr-4": {
             "Interop\\Lenient\\Dao\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
